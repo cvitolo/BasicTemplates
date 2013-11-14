@@ -13,7 +13,7 @@
 #' @param A this is a number in the range [0,1]      
 #' @param B this is a number in the range [0,1] 
 #' 
-#' @return number in the range [0,1]
+#' @return number in the range [0,2]
 #' 
 #' @examples 
 #' # C <- CalculateC(A,B)
